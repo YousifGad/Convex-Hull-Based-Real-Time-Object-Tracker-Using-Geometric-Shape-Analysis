@@ -31,9 +31,9 @@ convex-hull-object-tracker/
 
 ├── object_tracking_with_convex_hulls.py
 
-├── ![Sample input video](https://youtu.be/fZF6gLqBHQo) 
+├── [![Sample input video](https://img.youtube.com/vi/fZF6gLqBHQo/10.jpg)](https://youtu.be/fZF6gLqBHQo)
 
-├── ![Processed video output](https://youtu.be/e1DXfnYTA8Y)
+├── [![Processed video output](https://img.youtube.com/vi/e1DXfnYTA8Y/10.jpg)](https://youtu.be/e1DXfnYTA8Y)
 
 ├── shape_data.csv
 
